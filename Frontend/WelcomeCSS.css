@@ -1,0 +1,25 @@
+#container1{
+    background-color: white;
+    height: 500px;
+    width: 1000px;
+    border: 5px solid black; 
+    margin-top: 90px;
+    margin-left: 250px;
+}
+#heading1{
+    margin-top: 5%;
+    margin-left: 25%;
+    font-size: 100px;
+}
+#button1{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    width: 120px;
+    height: 40px;
+    margin-left: 45%;
+}
+#a1{
+    text-decoration: none;
+    color: white;   
+}

@@ -1,0 +1,55 @@
+#heading1{
+    font-size: 80px;
+    text-align: center;
+    margin-top: 0px;
+}
+#container2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#user{
+    font-size: 30px;
+}
+#username{
+    font-size: 20px;
+}
+#pass1{
+    font-size: 30px;
+}
+#password{
+    font-size: 20px;
+}
+#pass2{
+    font-size: 30px;
+}
+#password2{
+    font-size: 20px;
+}
+#ad1{
+    font-size: 30px;
+}
+#address{
+    font-size: 20px;
+}
+#gender{
+    font-size: 30px;
+}
+#mal{
+    font-size: 30px;
+}
+#femal{
+    font-size: 30px;
+}
+#container4{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#btn1{
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 140px;
+    font-size: 20px;
+}
